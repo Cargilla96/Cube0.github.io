@@ -24,8 +24,5 @@ $(document).ready(function () {
     $(".page2").hover(function () {
         $("nav").slideDown(1500);
     })
-    $(".page4").hover(function () {
-        $(".cube-format").animate({ left: '0px' }, 1550);
-    });
 });
 
