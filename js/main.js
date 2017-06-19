@@ -22,10 +22,6 @@ function onPlayerReady() {
 
 $(document).ready(function () {
     $(".page2").hover(function () {
-        $("h1").animate({ left: '0px' }, 1550);
-        $("p").animate({ right: '0px' }, 1250);
-    });
-    $(".page2").hover(function () {
         $("nav").slideDown(1500);
     })
     $(".page4").hover(function () {
