@@ -36,12 +36,9 @@ div.container-fluid h1{
     margin-bottom:12vh;
     margin-top:15vh;
     position:relative;
-    left:-1000px;
-
 }
 div.container-fluid p{
     position:relative;
-    right:-2000px;
 }
 .nav-outer {
   width:500px;
