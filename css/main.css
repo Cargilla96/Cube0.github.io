@@ -54,6 +54,13 @@ div.container-fluid h1{
 div.container-fluid p{
     position:relative;
 }
+.header{
+    font-family:'Segoe UI';
+    font-size:4vh;
+    font-weight:900;
+    text-align:center;
+    margin-bottom:0px;
+}
 /*Cube Styling*/
 #stage{
     padding-top: 23vh;
